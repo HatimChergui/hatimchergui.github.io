@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-(M'12--SM'22) received the engineering degree in telecommunications from the Institut National des Postes et Télécommunications (INPT), Rabat, Morocco, in 2007 and the Ph.D. degree (summa cum laude) in electrical engineering and telecommunications from IMT-Atlantique (Télécom-Bretagne), Brest, France, in 2015. He is currently the project manager of the H2020 MonB5G European project and a researcher at CTTC, Spain. He served as a RAN expert at both INWI and Huawei Technologies, Morocco. He was the recipient of the IEEE ComSoc CSIM 2021 Best Journal Paper Award and the IEEE ICC 2020 Best Paper Award. He is an Associate Editor of IEEE Networking Letters.
+(M'12--SM'22) received the engineering degree in telecommunications from the Institut National des Postes et Télécommunications (INPT), Rabat, Morocco, in 2007 and the Ph.D. degree (summa cum laude) in electrical engineering and telecommunications from IMT-Atlantique (Télécom-Bretagne), Brest, France, in 2015. He is a Senior Researcher at i2CAT Foundation, Barcelona, Spain. He was the project manager of the H2020 MonB5G European project and a researcher at CTTC, Spain. He served as a RAN expert at both INWI and Huawei Technologies, Morocco. He was the recipient of the IEEE ComSoc CSIM 2021 Best Journal Paper Award and the IEEE ICC 2020 Best Paper Award. He is an Associate Editor of IEEE Networking Letters.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
