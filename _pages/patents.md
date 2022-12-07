@@ -4,7 +4,7 @@ permalink: /patents/
 title: patents
 description: Patents filed, published.
 nav: true
-nav_order: 5
+nav_order: 2
 ---
 
 C. Verykoukis, L. Christofi, F. Rezazadeh, H. Chergui, **Continuous network slicing in a 5g
