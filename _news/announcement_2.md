@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A long announcement with details
+title: Received the IEEE ComSoc CSIM Best Journal Paper Award 2021
 date: 2022-05-01 00:00:00-0000
 inline: false
 ---
