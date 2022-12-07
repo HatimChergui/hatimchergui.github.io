@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
+title: 5GSolutions
+description: H2020
+img: assets/img/logo-image-sol.png
+redirect: https://5gsolutionsproject.eu/
+importance: 2
 category: work
 ---
 
