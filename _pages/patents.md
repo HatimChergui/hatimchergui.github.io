@@ -1,7 +1,7 @@
 
 ---
 layout: page
-permalink: /teaching/
+permalink: /patents/
 title: patents
 description: Patents filed, published
 nav: true
