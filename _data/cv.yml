@@ -12,19 +12,9 @@
     - title: PhD
       institution: IMT-Atlantique, Brest, France
       year: 2015
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: Engineering Degree in Telecommunications
       institution: INPT, Rabat, Morocco
       year: 2007
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
@@ -32,19 +22,10 @@
     - title: Senior Researcher
       institution: i2CAT Foundation, Barcelona, Spain
       year: 2022 - Present
-      description:
-        - -
-        - -
-        - title: Description 3.
-          contents:
-            - -
-            - -
+
     - title: Researcher and Project Manager
       institution: CTTC, Barcelona, Spain
       year: 2019 - 2022
-      description:
-        - -
-        - -
 
     - title: RAN Expert
       institution: INWI, Casablanca, Morocco
@@ -64,13 +45,7 @@
   type: nested_list
   contents:
     - title: AI/ML for Communications and Networking
-      items: 
-        - -
-        - -
     - title: Performance Analysis
-      items:
-        - -
-        - -
 
 - title: Other Interests
   type: list
