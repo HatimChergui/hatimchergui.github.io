@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: MonB5G
+description: H2020 ICT-20-2019-2020
+img: assets/img/monb5g_logo.png
+redirect: https://www.monb5g.eu/
 importance: 3
 category: work
 ---
