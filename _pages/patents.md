@@ -1,12 +1,11 @@
-
 ---
 layout: page
-permalink: /patents/
-title: patents
-description: Patents filed, published
+permalink: /teaching/
+title: Patents
+description: Patents filed, published.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
+C. Verykoukis, L. Christofi, F. Rezazadeh, H. Chergui, **Continuous network slicing in a 5g
+cellular communications network via a delayed deep deterministic policy gradient**, [European Patent](https://patents.google.com/patent/ES2889699A1/en), 2021.
