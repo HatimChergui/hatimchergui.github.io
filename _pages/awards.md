@@ -4,7 +4,7 @@ permalink: /awards/
 title: awards
 description: Awards
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 - **IEEE ICC'2020 Best Paper Award**, H. Chergui and C. Verikoukis, "OPEX-Limited 5G RAN Slicing: an Over-Dataset Constrained Deep Learning Approach," ICC 2020 - 2020 IEEE International Conference on Communications (ICC), 2020, pp. 1-6, doi: 10.1109/ICC40277.2020.9149051.
