@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Senior Researcher</a>. [i2CAT Foundation](https://i2cat.net/), Barcelona, Spain.
+subtitle: <a href='#'>Senior Researcher</a>. <a href='https://i2cat.net/'>i2CAT Foundation</a>, Barcelona, Spain.
 
 profile:
   align: right
