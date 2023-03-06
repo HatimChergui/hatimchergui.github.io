@@ -17,6 +17,7 @@ nav_order: 4
 - Workshops Co-chair:
   - The 1st IEEE Workshop on Decentralized AI for Wireless Networks with Zero-Touch (in conjunction with IEEE ICC’2021),
   - The 1st IEEE Workshop on Artificial Intelligence for Sustainable B5G/6G Networks (in conjunction with IEEE GLOBECOM’2021),
+  - The 1st IEEE Workshop on Scalable and Trustworthy AI for 6G Wireless Networks (in conjunction with IEEE ICC'2023),
 - Special Session Chair, IEEE MeditCom 2021,
 - Session Chair: WCNC’2019,
 - TPC Member: UNET’2016, IEEE IWCMC 2019, ICC’2020, GC’2020, IEEE IWCMC’2020, ICC’2021, GLOBECOM’2021 (SAC MLC and MWN) , ICC’2022, GLOBECOM’2022 (SAC MLC and WC), EuCNC & 6G Summit’2022, ICC'2023, EuCNC & 6G Summit'2023, MeditCom'2023,
