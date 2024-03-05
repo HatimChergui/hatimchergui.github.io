@@ -10,7 +10,7 @@ nav_order: 4
 - **Speaker/Panelist,** 1st Joint International Workshop on Network Programmability & Automation (NetPA), CNSM, 2021,
 - **Speaker,** 5GPPP-TB Workshop on AI/ML for Networks, 5GPPP-TB, 2020,
 - **Speaker,** Industry Webinar on AI for B5G, ODDnet, 2020,
-- **Trainer,** 10 industry/academia trainings (up to 2 days per training) on 3G/4G and Wireless Communications, Huawi Technologies, INWI and INPT.
+- **Trainer,** 10 industry/academia trainings (up to 2 days per training) on 3G/4G and Wireless Communications, Huawei Technologies, INWI and INPT.
 
 **Editorship, Conference Chairing, TPC Memberships and Reviews**
 - Associate Editor: IEEE Networking Letters,
