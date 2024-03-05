@@ -15,7 +15,7 @@ nav_order: 4
 **Editorship, Conference Chairing, TPC Memberships and Reviews**
 - Associate Editor: IEEE Networking Letters,
 - Workshops Co-chair:
-  - The 1st IEEE Workshop on Explainable and Responsible AI/GenAI for 6G Networks (in conjunction with IEEE MeditCom’2024)
+  - The 1st IEEE Workshop on Explainable and Responsible AI/GenAI for 6G Networks (in conjunction with IEEE MeditCom'2024)
   - The 1st IEEE Workshop on Scalable and Trustworthy AI for 6G Wireless Networks (in conjunction with IEEE ICC'2023),
   - The 1st IEEE Workshop on Decentralized AI for Wireless Networks with Zero-Touch (in conjunction with IEEE ICC’2021),
   - The 1st IEEE Workshop on Artificial Intelligence for Sustainable B5G/6G Networks (in conjunction with IEEE GLOBECOM’2021),
