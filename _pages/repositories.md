@@ -11,5 +11,8 @@ A GPU-enabled Matlab implementation of the multivariate Fox H-function.
 [![Zenodo Page](https://api.microlink.io/?url=https%3A%2F%2Fzenodo.org%2Frecords%2F11316270%23metrics&screenshot=true&embed=screenshot.url)](https://zenodo.org/records/11316270)
 
 
+[![Zenodo Page](https://api.microlink.io/?url=https%3A%2F%2Fzenodo.org%2Frecords%2F1217925%23metrics&screenshot=true&embed=screenshot.url)](https://zenodo.org/records/1217925)
+
+
 
 
