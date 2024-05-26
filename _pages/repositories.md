@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 # mfoxh-GPU [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11316270.svg)](https://doi.org/10.5281/zenodo.11316270)
-A GPU-enabled Matlab implementation of the multivariate Fox H-function.
+A GPU-enabled Matlab implementation of the multivariate Fox H-function. <span style=  "color:purple;">It can also be used for CPU by omitting gpuArray().</span>
 
 [<img src="https://api.microlink.io/?url=https%3A%2F%2Fzenodo.org%2Frecords%2F11316270%23metrics&screenshot=true&embed=screenshot.url" alt="Zenodo Page" width="600" height="400">](https://zenodo.org/records/11316270)
 
