@@ -8,7 +8,7 @@ tags: formatting images
 **Letter to Sheila**
 
 *A prayer from the Daughter of Heights, Sheila,
-to the keeper of secret dawn:
+To the keeper of secret dawn:
 Bloom for me in my boundless Haven,  
 A wild Language,
 Worthy of
