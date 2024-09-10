@@ -7,12 +7,17 @@ tags: formatting images
 ---
 **Letter to Sheila**
 
-*A prayer from the Daughter of Heights, Sheila,
-To the keeper of secret dawn:
-Bloom for me in my boundless Haven,  
-A wild Language,
-Worthy of
-A Rosetta Stone,* 
+*A prayer from the Daughter of Heights, Sheila,*
+
+*To the keeper of secret dawn:*
+
+*Bloom for me in my boundless Haven,*  
+
+*A wild Language,*
+
+*Worthy of*
+
+*A Rosetta Stone,* 
 
 *And Melissa's heart longs  
 For the lisp of its letters:  
