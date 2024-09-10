@@ -8,9 +8,10 @@ categories: sample-posts
 ---
 
 **Letter to Sheila**
+
 *A prayer from the Daughter of Heights, Sheila,
 To the keeper of secret dawn:
-*Bloom for me in my boundless Haven,  
+Bloom for me in my boundless Haven,  
 A wild Language,
 Worthy of
 A Rosetta Stone,* 
