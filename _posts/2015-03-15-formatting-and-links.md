@@ -6,7 +6,6 @@ tags: formatting images
 
 ---
 **Letter to Sheila**
-
 *A prayer from the Daughter of Heights, Sheila,*
 *To the keeper of secret dawn:*
 *Bloom for me in my boundless Haven,*  
