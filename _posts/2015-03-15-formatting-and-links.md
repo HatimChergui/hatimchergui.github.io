@@ -17,6 +17,7 @@ Worthy of
 A Rosetta Stone,*  
 *And Melissa's heart longs  
 For the lisp of its letters,*
+
 *For in subtle lapsus,
 Resides her wonders:  
 In Sheila's eyes, a hidden yearning,  
