@@ -7,6 +7,7 @@ nav: true
 nav_order: 4
 ---
 **Invited Talks**
+- **Speaker**, Mobile World Capital Barcelona, ''Elevate your innovations with EU projects and funding!´´ (Pitching Session), 2024.
 - **Speaker/Panelist,** 1st Joint International Workshop on Network Programmability & Automation (NetPA), CNSM, 2021,
 - **Speaker,** 5GPPP-TB Workshop on AI/ML for Networks, 5GPPP-TB, 2020,
 - **Speaker,** Industry Webinar on AI for B5G, ODDnet, 2020,
@@ -23,6 +24,6 @@ nav_order: 4
   
 - Special Session Chair, IEEE MeditCom 2021,
 - Session Chair: WCNC’2019,
-- TPC Member: UNET’2016, IEEE IWCMC 2019, ICC’2020, GLOBECOM’2020, IEEE IWCMC’2020, ICC’2021, GLOBECOM’2021 (SAC MLC and MWN) , ICC’2022, GLOBECOM’2022 (SAC MLC and WC), EuCNC & 6G Summit’2022, ICC'2023, EuCNC & 6G Summit'2023, MeditCom'2023, GLOBECOM'2023 ICC'2024, (SAC MLC, WC and CQRM), GLOBECOM'2024 (SAC MLC, WC, CQRM).
-- Reviewer for Artech House, London, UK,
+- TPC Member: UNET’2016, IEEE IWCMC 2019, ICC’2020, GLOBECOM’2020, IEEE IWCMC’2020, ICC’2021, GLOBECOM’2021 (SAC MLC and MWN) , ICC’2022, GLOBECOM’2022 (SAC MLC and WC), EuCNC & 6G Summit’2022, ICC'2023, EuCNC & 6G Summit'2023, MeditCom'2023, GLOBECOM'2023, ICC'2024, (SAC MLC, WC and CQRM), GLOBECOM'2024 (SAC MLC, WC, CQRM), CAMAD'2024.
+- Reviewer for Artech House, London, UK and Elsevier Book Publishing, UK
 - Reviewer for top-tier IEEE journals and conferences.
