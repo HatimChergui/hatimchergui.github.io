@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: SEMANTIC
+description: H2020 MSCA-ITN
+img: assets/img/semantic_logo.png
+redirect: https://www.semantic2020.eu/
+importance: 4
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
