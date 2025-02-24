@@ -7,6 +7,7 @@ nav: true
 nav_order: 4
 ---
 **Invited Talks**
+- **Speaker**, [Advanced Internet Technologies Winter PhD School](https://i2cat.net/event/advanced-internet-technologies-winter-phd-school-2024/), Barcelona, 2024,
 - **Speaker**, Mobile World Capital Barcelona, ''Elevate your innovations with EU projects and funding!´´ (Pitching Session), 2024.
 - **Speaker/Panelist,** 1st Joint International Workshop on Network Programmability & Automation (NetPA), CNSM, 2021,
 - **Speaker,** 5GPPP-TB Workshop on AI/ML for Networks, 5GPPP-TB, 2020,
