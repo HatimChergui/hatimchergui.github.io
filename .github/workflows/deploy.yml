@@ -48,6 +48,6 @@ jobs:
 
     - name: Deploy website
       run: |
-        bash bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }} \
+        echo "y" | bash bin/deploy --verbose \
                         --src ${{ steps.setup.outputs.SRC_BRANCH }} \
                         --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }}
