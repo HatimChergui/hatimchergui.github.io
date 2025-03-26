@@ -6,7 +6,7 @@ subtitle: Senior Researcher. <a href='https://i2cat.net/'>i2CAT Foundation</a>, 
 
 profile:
   align: right
-  image: prof_pic_.jpg
+  image: hatim_pic.JPG
   image_circular: false # crops the image to make it circular
   address: >
     <p>C\ Gran Capità 2-4</p>
