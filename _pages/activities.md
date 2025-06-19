@@ -16,7 +16,7 @@ nav_order: 4
 - **Trainer,** 10 industry/academia trainings (up to 2 days per training) on 3G/4G and Wireless Communications, Huawei Technologies, INWI and INPT.
 
 **Delivered Tutorials**
-- H. Chergui, C. Fiandrino and F. Rezazadeh, Explainable AI for Communications and Networking, EuCNC'2025 & 6G Summit, 3rd June 2025, Poznan, Poland.
+- H. Chergui, C. Fiandrino and F. Rezazadeh, [Explainable AI for Communications and Networking](https://www.eucnc.eu/programme/tutorials/tutorial-4/), EuCNC'2025 & 6G Summit, 3rd June 2025, Poznan, Poland.
 
 **Editorship, Conference Chairing, TPC Memberships and Reviews**
 - Associate Editor: IEEE Networking Letters,
