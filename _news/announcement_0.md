@@ -5,6 +5,6 @@ inline: true
 title: Our new Book is out!
 ---
 
-![XAI](/assets/images/xai.png)
+![XAI](xai.png)
 
 Our New Book is out! Explainable AI for Communications and Networking, H. Chergui, M. Erol-Kantarci, and C. Verikoukis, Eds. Academic Press, 2025.
