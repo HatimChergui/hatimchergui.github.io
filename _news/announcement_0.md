@@ -7,5 +7,5 @@ title: Our new Book is out!
 
 <div style="display: flex; align-items: center; gap: 1em;">
 <img src="/assets/img/xai.png" alt="Book" style="width:100px; height:auto;"/>
-<p>Our New Book is out! **Explainable AI for Communications and Networking**, H. Chergui, M. Erol-Kantarci, and C. Verikoukis, Eds. Academic Press, 2025.</p>
+<p>Our New Book is out! Explainable AI for Communications and Networking, H. Chergui, M. Erol-Kantarci, and C. Verikoukis, Eds. Academic Press, 2025.</p>
 </div>
