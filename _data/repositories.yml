@@ -1,7 +1,14 @@
 github_users:
-  - HatimChergui
+  - torvalds
+  - alshedivat
 
 repo_description_lines_max: 2
 
 github_repos:
-  - HatimChergui/agentic-6g-cross-domain-negotiation
+  - alshedivat/al-folio
+  - jekyll/jekyll
+  - twbs/bootstrap
+  - jquery/jquery
+  - FortAwesome/Font-Awesome
+  - mathjax/MathJax
+  - jpswalsh/academicons
