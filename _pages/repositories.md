@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
 nav: true
 nav_order: 3
 ---
-{% if site.data.repositories.github_users %}
 
-## GitHub users
+{% if site.data.repositories.github_users %}
+## GitHub Users
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for user in site.data.repositories.github_users %}
@@ -18,18 +18,15 @@ nav_order: 3
 ---
 
 {% if site.repo_trophies.enabled %}
-{% for user in site.data.repositories.github_users %}
-{% if site.data.repositories.github_users.size > 1 %}
-
-  <h4>{{ user }}</h4>
-  {% endif %}
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.liquid username=user %}
-  </div>
-
----
-
-{% endfor %}
+  {% for user in site.data.repositories.github_users %}
+    {% if site.data.repositories.github_users.size > 1 %}
+      <h4>{{ user }}</h4>
+    {% endif %}
+    <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+      {% include repository/repo_trophies.liquid username=user %}
+    </div>
+    ---
+  {% endfor %}
 {% endif %}
 {% endif %}
 
@@ -42,6 +39,7 @@ nav_order: 3
   {% endfor %}
 </div>
 {% endif %}
+
 
 
 # mfoxh-GPU [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11316270.svg)](https://doi.org/10.5281/zenodo.11316270)
