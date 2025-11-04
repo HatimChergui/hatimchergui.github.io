@@ -5,6 +5,15 @@ title: repositories
 nav: true
 nav_order: 3
 ---
+## GitHub Repositories
+
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for repo in site.data.repositories.github_repos %}
+    {% include repository/repo.liquid repository=repo %}
+  {% endfor %}
+</div>
+{% endif %}
+
 
 # mfoxh-GPU [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11316270.svg)](https://doi.org/10.5281/zenodo.11316270)
 A GPU-enabled Matlab implementation of the multivariate Fox H-function. <span style=  "color:purple;">It can also be used on CPU by dropping gpuArray() function.</span>
