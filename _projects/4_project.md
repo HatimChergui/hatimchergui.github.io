@@ -5,7 +5,7 @@ description: H2020 MSCA-ITN
 img: assets/img/semantic_logo.png
 redirect: https://www.semantic2020.eu/
 importance: 4
-category: work
+category: participated
 ---
 
 Every project has a beautiful feature showcase page.
