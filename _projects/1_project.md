@@ -5,7 +5,7 @@ description: H2020
 img: assets/img/logo-image-sol.png
 redirect: https://5gsolutionsproject.eu/
 importance: 2
-category: work
+category: participated
 ---
 
 Every project has a beautiful feature showcase page.
