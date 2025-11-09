@@ -4,8 +4,8 @@ title: NANCY
 description: HORIZON-JU-SNS-2022
 img: assets/img/NANCY_Logo.png
 redirect: https://nancy-project.eu/
-importance: 5
-category: work
+importance: 1
+category: participated
 ---
 
 Every project has a beautiful feature showcase page.
