@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of the cool projects I have been involved in.
 nav: true
 nav_order: 3
-display_categories: [coordinated, participated, fun]
+display_categories: [coordinated, participated]
 horizontal: false
 ---
 
