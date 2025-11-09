@@ -4,7 +4,7 @@ title: GENOME
 description: MSCA DN
 img: assets/img/genome_logo.png
 redirect: https://cordis.europa.eu/project/id/101226860
-importance: 3
+importance: 1
 category: coordinated
 ---
 
