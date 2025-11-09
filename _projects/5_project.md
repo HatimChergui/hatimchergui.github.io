@@ -1,5 +1,6 @@
 ---
 layout: page
+title: GENOME
 description: MSCA DN 2024
 img: assets/img/genome_logo.png
 redirect: https://cordis.europa.eu/project/id/101226860
