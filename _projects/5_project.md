@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: GENOME
+description: MSCA DN
+img: assets/img/genome_logo.png
+redirect: https://cordis.europa.eu/project/id/101226860
 importance: 3
-category: fun
+category: coordinated
 ---
 
 Every project has a beautiful feature showcase page.
@@ -17,7 +18,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/1.jpg
     ---
 
 <div class="row">
