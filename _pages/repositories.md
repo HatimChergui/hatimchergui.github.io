@@ -5,7 +5,7 @@ title: repositories
 nav: true
 nav_order: 3
 ---
-# LLM-powered Agentic 6G Cross-Domain Negotiation [Github Repo](https://github.com/HatimChergui/agentic-6g-cross-domain-negotiation)
+## LLM-powered Agentic 6G Cross-Domain Negotiation [Github Repo](https://github.com/HatimChergui/agentic-6g-cross-domain-negotiation)
 This project simulates an A2A-like negotiation between two LLM-powered agents, a RAN (Energy Saving) Agent and an Edge (Latency Assurance) Agent, to reconcile their conflicting goals. They use a small-scale digital twin (DT) to validate their proposals/counter-proposals before sending them to the peer agent. The simulation evaluates different strategies, including using a collective memory with and without debiasing mechanisms.
 # LLM-powered Agentic 6G Network Slicing Negotiation [Github Repo](https://github.com/HatimChergui/agentic-6g-network-slicing)
 A **Python simulation environment** where **autonomous LLM-powered agents**, representing different network slices (e.g., eMBB and URLLC) negotiate for RAN bandwidth and Edge CPU resources to meet their respective SLAs while minimizing energy consumption. The agents invoke their small-scale **predictive Digital Twins**  to validate their proposals/counter-proposals.
