@@ -22,6 +22,7 @@ nav_order: 4
 **Editorship, Conference Chairing, TPC Memberships and Reviews**
 - Associate Editor: IEEE Networking Letters,
 - Guest Editor, Special Issue on Advances in AI for 6G, IEEE Networking Letters, 2024,
+- Demo Chair, IEEE CloudNet 2026.
 - Workshops Co-chair:
   - The 1st IEEE Workshop on Explainable and Responsible AI/GenAI for 6G Networks (in conjunction with IEEE MeditCom'2024),
   - The 1st IEEE Workshop on Scalable and Trustworthy AI for 6G Wireless Networks (in conjunction with IEEE ICC'2023),
@@ -30,6 +31,6 @@ nav_order: 4
   
 - Special Session Chair, IEEE MeditCom 2021,
 - Session Chair: WCNC’2019,
-- TPC Member: UNET’2016, IEEE IWCMC 2019, ICC’2020, GLOBECOM’2020, IEEE IWCMC’2020, ICC’2021, GLOBECOM’2021 (SAC MLC and MWN) , ICC’2022, GLOBECOM’2022 (SAC MLC and WC), EuCNC & 6G Summit’2022, ICC'2023, EuCNC & 6G Summit'2023, MeditCom'2023, GLOBECOM'2023, ICC'2024, (SAC MLC, WC and CQRM), GLOBECOM'2024 (SAC MLC, WC, CQRM), CAMAD'2024, ICC'2025, GLOBECOM'2025.
+- TPC Member: UNET’2016, IEEE IWCMC 2019, ICC’2020, GLOBECOM’2020, IEEE IWCMC’2020, ICC’2021, GLOBECOM’2021 (SAC MLC and MWN) , ICC’2022, GLOBECOM’2022 (SAC MLC and WC), EuCNC & 6G Summit’2022, ICC'2023, EuCNC & 6G Summit'2023, MeditCom'2023, GLOBECOM'2023, ICC'2024, (SAC MLC, WC and CQRM), GLOBECOM'2024 (SAC MLC, WC, CQRM), CAMAD'2024, ICC'2025, GLOBECOM'2025, ICC'2026, GLOBECOM'2026.
 - Reviewer for Artech House, London, UK and Academic Press Book Publishing, UK/USA.
 - Reviewer for top-tier IEEE/ACM journals and conferences.
